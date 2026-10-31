@@ -1,0 +1,25 @@
+{
+  "name": "Planner Verde — V Horizonte",
+  "short_name": "Planner Verde",
+  "description": "Controle de ganhos, gastos, metas e evolução para quem vive na estrada.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071015",
+  "theme_color": "#071015",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
